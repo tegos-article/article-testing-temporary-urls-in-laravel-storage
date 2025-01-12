@@ -1,1 +1,1 @@
-# Testing Temporary URLs in Laravel Storage: A Complete Tutorial
+# Testing Temporary URLs in Laravel Storage
