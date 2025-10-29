@@ -11,4 +11,4 @@ This article walks you through **two practical ways** to test `temporaryUrl()` s
 
 Both methods let you write clean, isolated tests without relying on real storage services.
 
-📎Read the full article: [How to Test Laravel's `Storage::temporaryUrl()`](https://dev.to/tegos/how-to-test-laravels-storage-temporaryurl-3a8g)
+📎Read the full article: [How to Test Laravel's `Storage::temporaryUrl()`](https://dev.to/tegos/testing-temporary-urls-in-laravel-storage-20p7)
